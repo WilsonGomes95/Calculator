@@ -1,4 +1,4 @@
-# Shape Area Calculator
+# Calculator
 
 Este projeto implementa um sistema simples para calcular as áreas de diferentes formas geométricas, como retângulos e círculos, utilizando conceitos de programação orientada a objetos, como herança e polimorfismo.
 
